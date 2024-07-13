@@ -4,7 +4,7 @@ Le script RaspyDartsInstall.sh permet d'installer RaspyDarts sans avoir à flash
 
 ## Installation
 
-- Téléchargez le script https://github.com/samuel-tranchet/raspydarts-installer/blob/main/RaspyDartsInstall.sh et copiez-le sur votre Raspberry PI
+- Téléchargez le script https://github.com/samuel-tranchet/raspydarts-installer/blob/master/RaspyDartsInstall.sh et copiez-le sur votre Raspberry PI
 - Ajoutez les droits d'execution à ce fichier, soit grâce au menu contextuel (clic droit) "propriétés->permissions->éxécution->tout le monde", soit avec la commande "sudo chmod a+x RaspyDartsInstall.sh"
 
  ![Ajoutez les droits](./Images/01-SetPermissions.gif)
