@@ -22,4 +22,4 @@ Le script RaspyDartsInstall.sh permet d'installer RaspyDarts sans avoir à flash
 
 ## Notes
 
-Veuillez considérer le script comme une version bêta, il a été testé avec succés sur un Raspberry PI 4 mais il peu y avoir des cas particuliers sur les autres modèles. Si vous rencontrez des difficultés merci de m'en faire part avec le maximum de détails pour que je corrige le problème.
+Veuillez considérer le script comme une version bêta, il a été testé avec succés sur un Raspberry PI 4 sous Raspberry PI OS 5.2 mais il peu y avoir des cas particuliers sur les autres modèles ou versions. Si vous rencontrez des difficultés merci de m'en faire part avec le maximum de détails pour que je corrige le problème.
