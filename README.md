@@ -10,11 +10,11 @@ Le script RaspyDartsInstall.sh permet d'installer RaspyDarts sans avoir à flash
  ![Ajoutez les droits](./Images/01-SetPermissions.gif)
 
 - Lancez le script dans le terminal (double clic ou ligne de commande ./RaspyDartsInstall.sh dans le dossier où se trouve le script)
-- Patientez le temps d'éxécution du script (environ 15-20 minutes), il va télécharger l'image officielle du jeu (environ 4Go), la monter sans remplacer votre système d'exploitation, copier tous les fichiers nécessaires au jeu sur votre Raspberry PI et installer les dépendances nécessaires.
+- Patientez le temps d'éxécution du script (environ 15-20 minutes), il va télécharger l'image officielle du jeu (environ 4Go), la décompresser, la monter sans remplacer votre système d'exploitation, copier tous les fichiers nécessaires au jeu sur votre Raspberry PI et installer les dépendances requises.
 
  ![Lancez le script](./Images/02-RunScript.gif)
 
-- Pendant l'installation un dossier "tmp" doit apparaitre dans le même dossier que le script, quand l'installation a réussi ce dossier tmp doit avoir été supprimé par le script. Une fois que cela et fait vous pouvez supprimer le script RaspyDartsInstall.sh de votre Raspberry PI.
+- Pendant l'installation un dossier "tmp" doit apparaitre dans le même dossier que celui du script, quand l'installation a réussi ce dossier tmp doit avoir été supprimé par le script. Une fois que cela est fait vous pouvez supprimer le script RaspyDartsInstall.sh de votre Raspberry PI.
 - Lancez RaspyDarts et configurez-le comme si vous aviez flashé l'image complète.
 
  ![Enjoy](./Images/03-Enjoy.gif)
